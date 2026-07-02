@@ -26,7 +26,7 @@ I am a young but motivated software engineer, drevin by a curiosity for technolo
 
 - Contact me:
   - [Email me](https://mail.google.com/mail/?view=cm&fs=1&to=avraham.elitzur@gmail.com)
-  - [Instagram]:(https://www.instagram.com/avraham_berlinger)
+  - [Instagram](https://www.instagram.com/avraham_berlinger)
 
 Thanks for stopping by! 🚀
 
