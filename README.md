@@ -8,7 +8,7 @@ I am a young but motivated software engineer, drevin by a curiosity for technolo
 
 - 🔭 I plan on completing me degree in the near future.
 - 🪖 Im currently serving in the IDF.
-- 🌐 Proud member of the [Neannim], contributing to the tech community.
+- 🌐 Proud member of the [Meannim], contributing to the tech community.
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,python,nodejs,react,express,mysql,mongodb,c,cpp,java,unreal)](https://skillicons.dev)
